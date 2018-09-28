@@ -2381,19 +2381,19 @@ h1.splash {
   line-height: 60vh;
   font-size: 3rem;
   font-weight: 400;
-  color: #f22f21
+  color: #ffffff
 }
 
 h1.splash small {
   display: initial;
   font-size: 0.5em;
-  color: #222
+  color: rgb(255, 255, 255)
 }
 
 h1.splash::first-letter {
   font-size: 1.33em;
-  color: #fff;
-  background: #f22f21;
+  color: rgb(231, 4, 4);
+  background: #ffffff;
   border-radius: 6px;
   padding: 0 10px
 }
@@ -2403,7 +2403,8 @@ p.splash {
   position: absolute;
   width: 100%;
   text-align: center;
-  padding-top: 40vh
+  padding-top: 40vh;
+  color: #ffffff
 }
 
 .card p:not(.doc),
