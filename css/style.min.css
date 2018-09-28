@@ -2481,8 +2481,8 @@ a.button.splash:hover {
 }
 
 .primary-section {
-  background: #f22f21;
-  color: #fff
+  background: #ffffff;
+  color: rgb(230, 36, 36)
 }
 
 .primary-section a:link {
